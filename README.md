@@ -1,0 +1,2 @@
+# CryptoUBI
+Basic Income Cryptocurrency
